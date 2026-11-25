@@ -2,7 +2,7 @@ Zen of Python
 
 1. Liubov Koliasa / Beautiful is better than ugly.
 2. Illia Hanzha / Explicit is better than implicit.
-3.
+3. Liliia Dzhudzhuk / Simple is better than complex.
 4.
 5.
 6.
